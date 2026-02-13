@@ -1,0 +1,177 @@
+Star: HD 2857, Coordinates: 00 31 53.7908406120 -05 15 42.870486708, Spectral type: A2IV, Gaia DR3 id: Gaia DR3 2527043140743265664, Radial velocity: rv=-155.04, Fluxes: U=10.52;B=10.17;V=9.98;G=9.936725;J=9.481;H=9.354;K=9.323;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7605 2.66  |-1.85    |         |     |2021MNRAS.505.4496G|
+ 
+Star: CL* NGC 330 ROB B38, Coordinates: 00 56 22.5754411848 -72 28 35.812965036, Spectral type: A5I, Gaia DR3 id: Gaia DR3 4688993402542368512, Radial velocity: rv=143.9, Fluxes: U=11.903;B=12.474;V=12.366;G=12.503305;I=12.27;J=12.069;H=11.977;K=11.899;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7515 1.51  |-0.89    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 9356, Coordinates: 01 32 08.1731409309 +01 20 30.230098757, Spectral type: A9V, Gaia DR3 id: Gaia DR3 2558296724402139392, Radial velocity: rv=-62.5304, Fluxes: U=9.46;B=9.33;V=9.15;G=9.704457;J=8.933;H=8.688;K=8.590;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  5835 2.9900|         |         |     |2022AJ....163..152S|
+ 
+Star: HD 16456, Coordinates: 02 37 05.7588329711 -42 57 48.035460221, Spectral type: A2/3(IIw), Gaia DR3 id: Gaia DR3 4947090013255935616, Radial velocity: rv=-145.25, Fluxes: B=9.25;V=9.03;G=9.006257;J=8.279;H=8.160;K=8.138;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6800 2.25  |-1.85    |         |     |2021MNRAS.503.4719G|
+ 
+Star: HD 23924, Coordinates: 03 49 40.9233801600 +23 20 29.652869940, Spectral type: A5VkA7mA7, Gaia DR3 id: Gaia DR3 64929391436043264, Radial velocity: rv=1.399000, Fluxes: B=8.32;V=8.13;G=8.094326;I=7.91;J=7.700;H=7.657;K=7.648;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  5887 4.1830|         |         |     |2022AJ....163..152S|
+ 
+Star: HD 28978, Coordinates: 04 34 08.2675220880 +05 34 07.035585024, Spectral type: A2IV, Gaia DR3 id: Gaia DR3 3282524177258336512, Radial velocity: rv=-8.91, Fluxes: B=5.729;V=5.678;G=5.666217;J=5.515;H=5.519;K=5.483;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  | 10444 4.11  | 0.00    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 38237, Coordinates: 05 44 30.5930826624 +04 20 21.055088976, Spectral type: A5IV, Gaia DR3 id: Gaia DR3 3320346999297121536, Radial velocity: rv=15.923400, Fluxes: B=7.35;V=7.17;G=7.148426;J=6.826;H=6.801;K=6.720;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  5931 4.0000|         |         |     |2022AJ....163..152S|
+ 
+Star: HD 42143, Coordinates: 06 09 23.3024671440 +06 16 31.796339376, Spectral type: A0, Gaia DR3 id: Gaia DR3 3318989239876899328, Radial velocity: rv=~, Fluxes: B=7.82;V=7.75;G=7.717838;J=7.507;H=7.425;K=7.426;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8681 3.36  |-0.15    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 43021, Coordinates: 06 14 10.4187673464 +02 34 28.630075044, Spectral type: A2III, Gaia DR3 id: Gaia DR3 3124766042749774720, Radial velocity: rv=15.07, Fluxes: B=8.02;V=7.80;G=7.772336;J=7.279;H=7.211;K=7.154;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7935 4.20  |-0.71    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 45196, Coordinates: 06 25 58.9668697512 -01 48 48.784186800, Spectral type: A9V, Gaia DR3 id: Gaia DR3 3117566200092213504, Radial velocity: rv=-8.24, Fluxes: B=8.67;V=8.32;G=8.282900;J=7.681;H=7.574;K=7.508;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7229 3.66  | 0.16    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 49739, Coordinates: 06 50 12.3270532560 +05 40 24.595818960, Spectral type: A5, Gaia DR3 id: Gaia DR3 3129424639157547264, Radial velocity: rv=33.40, Fluxes: B=7.04;V=6.76;G=6.712222;J=6.172;H=6.058;K=5.987;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7216 3.95  |-0.12    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 62968, Coordinates: 07 46 35.34552 +04 07 50.2212, Spectral type: A3mF2, Gaia DR3 id: , Radial velocity: rv=~, Fluxes: J=6.197;H=5.831;K=5.662;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6480 4.140 | 0.322   |Sun      |     |2023ApJS..266...14T|
+ 
+Star: HD 65372, Coordinates: 07 58 30.3329505624 +02 56 09.081871548, Spectral type: A3III, Gaia DR3 id: Gaia DR3 3088259988963761024, Radial velocity: rv=-2.67, Fluxes: B=6.795;V=6.652;G=6.625629;J=6.268;H=6.259;K=6.140;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7931 2.61  |-0.19    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 71310, Coordinates: 08 27 00.0289662096 +07 13 16.076066232, Spectral type: A2, Gaia DR3 id: Gaia DR3 595977294151338624, Radial velocity: rv=21.85, Fluxes: B=7.30;V=7.11;G=7.091559;J=6.697;H=6.639;K=6.550;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7725 3.48  |-0.20    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 71310, Coordinates: 08 27 00.0289662096 +07 13 16.076066232, Spectral type: A2, Gaia DR3 id: Gaia DR3 595977294151338624, Radial velocity: rv=21.85, Fluxes: B=7.30;V=7.11;G=7.091559;J=6.697;H=6.639;K=6.550;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7725 3.48  |-0.20    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 72968, Coordinates: 08 35 28.1987898408 -07 58 56.257821768, Spectral type: A1VpSrCr, Gaia DR3 id: Gaia DR3 5753752736224380544, Radial velocity: rv=34.92, Fluxes: U=5.68;B=5.69;V=5.72;G=5.707087;J=5.708;H=5.754;K=5.690;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8982 4.8300| 0.4800  |         |     |2024A&A...683A.125P|
+ 
+Star: HD 74721, Coordinates: 08 45 59.2614567408 +13 15 48.591616392, Spectral type: A0V, Gaia DR3 id: Gaia DR3 608373012147745920, Radial velocity: rv=30.395201, Fluxes: U=8.88;B=8.75;V=8.72;G=8.691909;J=8.521;H=8.525;K=8.522;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6041 3.4760|         |         |     |2022AJ....163..152S|
+
+Star: HD 93329, Coordinates: 10 46 36.6443174328 +11 11 02.846922036, Spectral type: A0, Gaia DR3 id: Gaia DR3 3871997546595984000, Radial velocity: rv=204.84, Fluxes: U=8.980;B=8.880;V=8.800;G=8.759825;J=8.475;H=8.399;K=8.416;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8180 2.95  |         |         |     |2025RNAAS...9...13K|
+ 
+Star: HD 109307, Coordinates: 12 33 34.2193153104 +24 16 58.739975472, Spectral type: A4Vm, Gaia DR3 id: Gaia DR3 3959212286380277632, Radial velocity: rv=0.71, Fluxes: B=6.363;V=6.243;G=6.243773;J=6.032;H=5.988;K=5.989;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8400 3.67  |-0.11    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 116745, Coordinates: 13 26 26.3183998296 -47 16 27.350366448, Spectral type: A7/9, Gaia DR3 id: Gaia DR3 6083719439934104832, Radial velocity: rv=240.11, Fluxes: B=11.08;V=10.79;G=10.680465;J=9.698;H=9.481;K=9.388;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6679 2.56  |-1.27    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 116745, Coordinates: 13 26 26.3183998296 -47 16 27.350366448, Spectral type: A7/9, Gaia DR3 id: Gaia DR3 6083719439934104832, Radial velocity: rv=240.11, Fluxes: B=11.08;V=10.79;G=10.680465;J=9.698;H=9.481;K=9.388;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6679 2.56  |-1.27    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 140232, Coordinates: 15 41 54.7165814280 +18 27 50.531406696, Spectral type: A8Vam, Gaia DR3 id: Gaia DR3 1197801408889764480, Radial velocity: rv=-31.38, Fluxes: B=5.994;V=5.792;G=5.769212;I=5.61;J=5.371;H=5.327;K=5.296;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8381 4.27  | 0.26    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 143459, Coordinates: 16 00 47.6323225512 -08 24 40.889775888, Spectral type: A0V, Gaia DR3 id: Gaia DR3 4347852022889882624, Radial velocity: rv=-20.73, Fluxes: B=5.557;V=5.526;G=5.504774;J=5.340;H=5.325;K=5.298;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9600 3.45  |         |         |     |2025RNAAS...9...13K|
+ 
+Star: HD 161370, Coordinates: 17 45 00.8836708272 +05 31 22.438712748, Spectral type: A0, Gaia DR3 id: Gaia DR3 4473687177317598336, Radial velocity: rv=-15.44, Fluxes: B=9.71;V=9.42;G=9.322967;J=8.723;H=8.623;K=8.582;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8568 4.39  |-0.03    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 163346, Coordinates: 17 55 37.5125112864 +02 04 29.719084800, Spectral type: A2IV+G/K, Gaia DR3 id: Gaia DR3 4468813931327385600, Radial velocity: rv=11.13, Fluxes: B=7.33;V=6.79;G=6.595659;J=5.260;H=4.878;K=4.756;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6910 4.02  | 0.23    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 164257, Coordinates: 18 00 07.3151220144 +06 33 14.132106144, Spectral type: A0, Gaia DR3 id: Gaia DR3 4474806789394684544, Radial velocity: rv=5.640, Fluxes: B=6.85;V=6.78;G=6.749215;J=6.477;H=6.449;K=6.405;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8304 4.8920| 0.5400  |         |     |2024A&A...683A.125P|
+ 
+Star: HD 164967, Coordinates: 18 03 21.0498320592 +08 25 09.659727624, Spectral type: A0, Gaia DR3 id: Gaia DR3 4476214061198753280, Radial velocity: rv=-14.52, Fluxes: B=7.32;V=7.21;G=7.187082;J=6.850;H=6.794;K=6.760;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9001 4.34  |-1.32    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 165887, Coordinates: 18 08 07.2389644176 +02 13 07.192566300, Spectral type: A2/3V, Gaia DR3 id: Gaia DR3 4468305755100841472, Radial velocity: rv=-61.10, Fluxes: B=6.78;V=6.62;G=6.611578;J=6.270;H=6.233;K=6.181;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8297 3.62  |-0.04    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 166283, Coordinates: 18 09 44.7755055264 +04 36 11.227757868, Spectral type: A1V, Gaia DR3 id: Gaia DR3 4471126479159876096, Radial velocity: rv=-22.61, Fluxes: B=7.96;V=7.75;G=7.736005;J=7.302;H=7.188;K=7.180;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8574 4.55  |-0.41    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 166991, Coordinates: 18 13 03.8306501688 +02 58 50.089539576, Spectral type: A1V, Gaia DR3 id: Gaia DR3 4469871906338470528, Radial velocity: rv=-21.02, Fluxes: B=6.92;V=6.83;G=6.811768;J=6.600;H=6.584;K=6.531;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8977 4.40  |-1.39    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 167946, Coordinates: 18 17 14.3686357968 +05 45 12.901832820, Spectral type: A0, Gaia DR3 id: Gaia DR3 4470930186283476736, Radial velocity: rv=-14.72, Fluxes: B=7.35;V=7.33;G=7.329839;J=7.243;H=7.301;K=7.234;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9300 3.74  |-0.77    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 169032, Coordinates: 18 22 27.0120214128 +07 13 34.686925140, Spectral type: A2, Gaia DR3 id: Gaia DR3 4478267193011680640, Radial velocity: rv=-31.48, Fluxes: B=8.42;V=8.13;G=8.076283;J=7.393;H=7.278;K=7.236;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8301 3.48  |-0.04    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 171234, Coordinates: 18 33 31.7411728464 +01 54 12.842590752, Spectral type: A5IV, Gaia DR3 id: Gaia DR3 4273885436158791168, Radial velocity: rv=-40.17, Fluxes: B=8.14;V=7.92;G=7.881477;J=7.382;H=7.369;K=7.311;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8070 3.95  | 0.06    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 172522, Coordinates: 18 40 22.6078426728 +08 52 06.433621320, Spectral type: A2III, Gaia DR3 id: Gaia DR3 4479434290260290304, Radial velocity: rv=-8.86, Fluxes: B=7.14;V=6.92;G=6.877497;J=6.297;H=6.223;K=6.137;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8752 3.31  | 0.06    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 173073, Coordinates: 18 43 26.4262904712 +03 47 08.573437032, Spectral type: A2/3IV/V, Gaia DR3 id: Gaia DR3 4280459278757543296, Radial velocity: rv=48.93, Fluxes: B=7.83;V=7.65;G=7.628007;J=7.214;H=7.188;K=7.145;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8400 3.45  |-0.26    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 173369, Coordinates: 18 44 37.3788048624 +07 58 39.396489132, Spectral type: A2, Gaia DR3 id: Gaia DR3 4286975912366995200, Radial velocity: rv=~, Fluxes: B=8.20;V=7.97;G=7.962328;J=7.590;H=7.546;K=7.503;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8052 3.46  | 0.36    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 173669, Coordinates: 18 46 19.6439260488 +05 09 11.283219396, Spectral type: A0, Gaia DR3 id: Gaia DR3 4285211505458307840, Radial velocity: rv=22.00, Fluxes: B=8.12;V=7.98;G=7.967024;J=7.654;H=7.616;K=7.563;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  5969 3.8050|         |         |     |2022AJ....163..152S|
+ 
+Star: HD 174240, Coordinates: 18 49 37.1928719280 +00 50 10.306332096, Spectral type: A1IV, Gaia DR3 id: Gaia DR3 4266584541504540928, Radial velocity: rv=-46.4, Fluxes: B=6.257;V=6.226;G=6.223891;J=6.067;H=6.075;K=6.040;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8879 3.61  |-0.63    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 174512, Coordinates: 18 51 07.9760513952 -06 16 45.047626104, Spectral type: A0II/III, Gaia DR3 id: Gaia DR3 4252502821320729344, Radial velocity: rv=23.00, Fluxes: B=9.055;V=8.557;G=8.363688;J=7.150;H=6.940;K=6.771;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  6743 2.99  |-0.16    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 174866, Coordinates: 18 53 01.8095063952 -09 34 31.876691088, Spectral type: A4V, Gaia DR3 id: Gaia DR3 4203208175948804864, Radial velocity: rv=-44.92, Fluxes: B=6.524;V=6.321;G=6.285830;J=5.887;H=5.838;K=5.784;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7971 3.93  | 0.04    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 174966, Coordinates: 18 53 07.8278738400 +01 45 19.691893476, Spectral type: A7III/IV, Gaia DR3 id: Gaia DR3 4279028985902356096, Radial velocity: rv=4.60, Fluxes: B=7.95;V=7.69;G=7.662130;J=7.157;H=7.092;K=7.044;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7874 4.09  | 0.03    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 174966, Coordinates: 18 53 07.8278738400 +01 45 19.691893476, Spectral type: A7III/IV, Gaia DR3 id: Gaia DR3 4279028985902356096, Radial velocity: rv=4.60, Fluxes: B=7.95;V=7.69;G=7.662130;J=7.157;H=7.092;K=7.044;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7874 4.09  | 0.03    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 174966, Coordinates: 18 53 07.8278738400 +01 45 19.691893476, Spectral type: A7III/IV, Gaia DR3 id: Gaia DR3 4279028985902356096, Radial velocity: rv=4.60, Fluxes: B=7.95;V=7.69;G=7.662130;J=7.157;H=7.092;K=7.044;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7874 4.09  | 0.03    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 175058, Coordinates: 18 53 55.9493473464 -09 22 13.124430444, Spectral type: A5IV, Gaia DR3 id: Gaia DR3 4203240852063111424, Radial velocity: rv=-7.40, Fluxes: B=7.42;V=7.04;G=6.932795;J=6.074;H=5.973;K=5.860;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  7862 3.01  |-0.27    |SUN      |     |2019A&A...627A.138A|
+ 
+Star: HD 175892, Coordinates: 18 58 24.8321012040 -22 31 46.179666372, Spectral type: A1V, Gaia DR3 id: Gaia DR3 4075669603079159680, Radial velocity: rv=-4.84, Fluxes: B=6.224;V=6.141;G=6.132522;J=5.962;H=5.930;K=5.907;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9033 4.09  |-0.06    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 190073, Coordinates: 20 03 02.5098474264 +05 44 16.660712904, Spectral type: A2IVe, Gaia DR3 id: Gaia DR3 4248713560548849792, Radial velocity: rv=-0.60, Fluxes: U=7.91;B=7.86;V=7.73;G=7.798197;I=7.65;J=7.194;H=6.647;K=5.855;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  | 10900 4.13  |-0.02    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 190073, Coordinates: 20 03 02.5098474264 +05 44 16.660712904, Spectral type: A2IVe, Gaia DR3 id: Gaia DR3 4248713560548849792, Radial velocity: rv=-0.60, Fluxes: U=7.91;B=7.86;V=7.73;G=7.798197;I=7.65;J=7.194;H=6.647;K=5.855;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  | 10900 4.13  |-0.02    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 193281, Coordinates: 20 20 27.8803232880 -29 11 49.972752276, Spectral type: A2IV-V, Gaia DR3 id: Gaia DR3 6797587122396076928, Radial velocity: rv=5.53, Fluxes: B=6.76;V=6.64;G=6.656607;R=7.50;J=6.126;H=6.009;K=5.906;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9213 3.77  | 0.20    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 193281, Coordinates: 20 20 27.8803232880 -29 11 49.972752276, Spectral type: A2IV-V, Gaia DR3 id: Gaia DR3 6797587122396076928, Radial velocity: rv=5.53, Fluxes: B=6.76;V=6.64;G=6.656607;R=7.50;J=6.126;H=6.009;K=5.906;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9213 3.77  | 0.20    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 194453, Coordinates: 20 25 25.4272443216 +06 38 30.501692592, Spectral type: A0III, Gaia DR3 id: Gaia DR3 4246840611198113024, Radial velocity: rv=-4.42, Fluxes: B=6.73;V=6.75;G=6.743118;J=6.679;H=6.743;K=6.724;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  | 10342 3.69  |-0.06    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 194453, Coordinates: 20 25 25.4272443216 +06 38 30.501692592, Spectral type: A0III, Gaia DR3 id: Gaia DR3 4246840611198113024, Radial velocity: rv=-4.42, Fluxes: B=6.73;V=6.75;G=6.743118;J=6.679;H=6.743;K=6.724;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  | 10342 3.69  |-0.06    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 195729, Coordinates: 20 32 56.8939646496 +02 25 38.902994940, Spectral type: A5IV, Gaia DR3 id: Gaia DR3 4232490506987506432, Radial velocity: rv=-29.74, Fluxes: B=7.93;V=7.72;G=7.719353;J=7.393;H=7.367;K=7.310;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8143 3.60  | 0.08    |SUN      |     |2019A&A...627A.138A|
+
+Star: BPS CS 30336-049, Coordinates: 20 45 23.5333400256 -28 42 35.912310048, Spectral type: ~, Gaia DR3 id: Gaia DR3 6795730493933072128, Radial velocity: rv=-236.6, Fluxes: B=14.89;V=14.03;G=13.712171;R=13.328;I=12.844;J=12.112;H=11.641;K=11.545;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  4745 1.25  |-4.07    |SUN      |     |2022A&A...663A...4S|
+ 
+Star: HD 201377, Coordinates: 21 09 16.0076892288 -00 14 05.730122688, Spectral type: A3III/IV, Gaia DR3 id: Gaia DR3 2689931630869716096, Radial velocity: rv=-19.12, Fluxes: B=6.812;V=6.658;G=6.634125;R=7.957;J=6.355;H=6.262;K=6.261;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8415 4.32  |-0.23    |SUN      |     |2023ApJS..266...41P|
+ 
+Star: HD 204041, Coordinates: 21 25 51.5848015320 +00 32 03.634403820, Spectral type: A1Vb, Gaia DR3 id: Gaia DR3 2688034762857131136, Radial velocity: rv=-10.78, Fluxes: B=6.593;V=6.450;G=6.426073;J=6.089;H=5.999;K=5.961;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8151 3.63  |-0.92    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 204041, Coordinates: 21 25 51.5848015320 +00 32 03.634403820, Spectral type: A1Vb, Gaia DR3 id: Gaia DR3 2688034762857131136, Radial velocity: rv=-10.78, Fluxes: B=6.593;V=6.450;G=6.426073;J=6.089;H=5.999;K=5.961;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  8151 3.63  |-0.92    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 207222, Coordinates: 21 46 56.2577808744 +21 17 50.750939004, Spectral type: A0, Gaia DR3 id: Gaia DR3 1792900051510535296, Radial velocity: rv=0.0, Fluxes: B=8.69;V=8.60;G=8.598200;J=8.415;H=8.421;K=8.369;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9605 4.27  |-0.22    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 207222, Coordinates: 21 46 56.2577808744 +21 17 50.750939004, Spectral type: A0, Gaia DR3 id: Gaia DR3 1792900051510535296, Radial velocity: rv=0.0, Fluxes: B=8.69;V=8.60;G=8.598200;J=8.415;H=8.421;K=8.369;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9605 4.27  |-0.22    |         |     |2021MNRAS.505.4496G|
+ 
+Star: HD 207222, Coordinates: 21 46 56.2577808744 +21 17 50.750939004, Spectral type: A0, Gaia DR3 id: Gaia DR3 1792900051510535296, Radial velocity: rv=0.0, Fluxes: B=8.69;V=8.60;G=8.598200;J=8.415;H=8.421;K=8.369;, Fe_H  | Teff  log.g | Fe_H   c|CompStar |CatNo|     Reference     |
+Fe_H  |  9605 4.27  |-0.22    |         |     |2021MNRAS.505.4496G|
+
